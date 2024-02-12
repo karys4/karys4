@@ -1,6 +1,17 @@
 ## Hi 👋, I'm Kary!  
-  
+<br/>  
 
+
+ <br/>  
+
+I’m an aspiring iOS developer, currently learning Swift 📱💻.
+
+I’m currently participating in [a roadmap of programming challenges in swift](https://github.com/mouredev/roadmap-retos-programacion). 
+  
+<br/>  
+
+
+ <br/>  
 <a href="https://github.com/karys4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -9,26 +20,13 @@
 </a>  
   
 
-I’m an aspiring iOS developer, currently learning Swift 📱💻.
-
-I’m currently participating in [a roadmap of programming challenges in swift](https://github.com/mouredev/roadmap-retos-programacion).  
+ 
   
 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+ <br/>  
 
 
 ## Languages and Tools  
@@ -69,4 +67,4 @@ I’m currently participating in [a roadmap of programming challenges in swift](
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
