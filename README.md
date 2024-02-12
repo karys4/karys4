@@ -4,8 +4,8 @@
 
  <br/>  
 
-I’m an aspiring iOS developer, currently learning Swift 📱💻.
-
+I’m an aspiring iOS developer with more than 8 years of experience in the IT field with a , currently learning Swift 📱💻.
+I have over 8 years of experience in the technology field and a master's degree in web and mobile technologies.
 I’m currently participating in [a roadmap of programming challenges in swift](https://github.com/mouredev/roadmap-retos-programacion). 
   
 <br/>  
