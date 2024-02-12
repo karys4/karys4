@@ -1,6 +1,4 @@
 ## Hi 👋, I'm Kary!  
-<br/>  
-
 I’m an aspiring iOS developer, currently learning Swift 📱💻.
 <br/> 
 I have over 8 years of experience in the technology field and a master's degree in web and mobile technologies.
